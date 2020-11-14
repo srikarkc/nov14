@@ -1,0 +1,8 @@
+management:
+  endpoint:
+    auditevents:
+      enabled: true
+    health:
+      enabled: true
+server:
+  port: 80
